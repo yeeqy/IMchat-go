@@ -1,5 +1,5 @@
 # IMchat-go
-## 即时通讯系统 
+即时通讯系统 
 gin+vue+websocket+gorm
 
 以上为后端代码实现
